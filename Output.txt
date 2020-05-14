@@ -1,0 +1,6 @@
+>>> from ProgrammingQuestion import produce_output
+>>> test_case = input()
+5,8,10:30,11:30
+>>> produce_output(test_case , 'rooms.txt')
+'9.547'
+>>>
